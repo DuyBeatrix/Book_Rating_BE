@@ -9,8 +9,7 @@ import java.util.List;
 @Data
 @NoArgsConstructor
 @FieldDefaults(level = AccessLevel.PRIVATE)
-public class UserDetailResponse
-{
+public class UserDetailResponse {
     Integer id;
 
     String userImage;
